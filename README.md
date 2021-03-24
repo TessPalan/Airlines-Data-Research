@@ -8,11 +8,6 @@ Erin Babamoto | Divya Manthena | Isaac Mizrahi | Tess Palan
 2. What top 5 airlines made the most revenue in 2019?
 3. Was air travel affected between the first quarter of 2020 and the rest of 2020?
 
-## Libraries Needed
-- Jupyter Notebook
-- Pandas/Python
-- PostgreSQL
-
 ## Data Sources
 
 Most traveled to cities:
@@ -23,6 +18,11 @@ https://www.transtats.bts.gov/DL_SelectFields.asp?gnoyr_VQ=FLM&QO_fu146_anzr=b4v
 
 Airline rankings:
 https://www.bts.gov/airline-rankings-2019
+
+## Libraries Needed
+- Jupyter Notebook
+- Pandas/Python
+- PostgreSQL
 
 ### *Extract*
 - Create path to read CSV
