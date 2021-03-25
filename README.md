@@ -12,13 +12,13 @@ Erin Babamoto | Divya Manthena | Isaac Mizrahi | Tess Palan
 
 ## Data Sources
 
-Most traveled to cities:
+ - Most traveled to cities:
 https://www.transtats.bts.gov/DL_SelectFields.asp?gnoyr_VQ=FLM&QO_fu146_anzr=b4vtv0%20n0q%20Qr56v0n6v10%20f748rB
 
 1. Download each quarter separately
 2. Choose applicable columns
 
-Airline rankings:
+ - Airline rankings:
 https://www.bts.gov/airline-rankings-2019
 
 ## Libraries Needed
