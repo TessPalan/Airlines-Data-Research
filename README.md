@@ -1,5 +1,7 @@
 # ETL-Project
 
+<img src="https://github.com/TessPalan/ETL-Project-Airlines/blob/main/airplane-flying-around-world.png" width="580" height="400">
+
 ## Flying Dolphins
 Erin Babamoto | Divya Manthena | Isaac Mizrahi | Tess Palan
 
