@@ -1,11 +1,11 @@
-# ETL-Project
+# ETL-Project - Top Destinations and Airlines in the US :flight_departure:	
 
 <img src="https://github.com/TessPalan/ETL-Project-Airlines/blob/main/airplane-flying-around-world.png" width="580" height="400">
 
 ## Flying Dolphins
 Erin Babamoto | Divya Manthena | Isaac Mizrahi | Tess Palan
 
-## Questions :flight_departure:	
+## :question:	 Questions 
 1. What were the top 5 most traveled to cities in the United States in 2019 and 2020?
 2. What top 5 airlines made the most revenue in 2019?
 3. Was air travel affected between the first quarter of 2020 and the rest of 2020?
@@ -21,7 +21,7 @@ https://www.transtats.bts.gov/DL_SelectFields.asp?gnoyr_VQ=FLM&QO_fu146_anzr=b4v
  - Airline rankings:
 https://www.bts.gov/airline-rankings-2019
 
-## Libraries Needed
+## :package: Libraries Needed
 - Jupyter Notebook
 - Pandas/Python
 - PostgreSQL
